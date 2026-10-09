@@ -1,0 +1,2 @@
+retailer,supplier_account,claim_ref,line_ref,invoice_ref,po_ref,sku,description,amount,currency,claimed_qty,unit,claim_date,deadline,deadline_source,owner,notes
+Northfield Markets (fictional),DEMO-IMPORT,QA-2001,1,INV-QA-1,PO-QA-1,TEA-QA,Demo imported tea,125.50,GBP,5,cases,2026-10-01,,,Demo reviewer,Fictional import example only

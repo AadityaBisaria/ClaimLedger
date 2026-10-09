@@ -1,0 +1,5 @@
+reportlab==4.4.9
+pypdf==6.10.0
+openpyxl==3.1.5
+pypdfium2==5.13.0
+rapidocr_onnxruntime==1.4.4

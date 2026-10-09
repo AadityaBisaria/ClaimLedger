@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.pyc
+.venv/
+.test-artifacts/
+frontend/node_modules/
+frontend/.vite/

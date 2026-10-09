@@ -1,0 +1,9 @@
+FICTIONAL DEMO DOCUMENT — NOT A REAL TRANSACTION
+Document type: invoice
+Invoice: INV-QA-1
+PO: PO-QA-1
+SKU: TEA-QA
+Quantity: 50
+Unit: cases
+Qualification: unspecified
+This synthetic invoice is only for testing the import and evidence workflow.
